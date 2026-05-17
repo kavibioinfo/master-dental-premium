@@ -27,7 +27,7 @@ const CLINIC_CONFIG = {
     { title: "Root Canal Treatment", desc: "Advanced rotary system, completely painless procedure, single sitting configurations available.", img: "https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=600" },
     { title: "Dental Implants", desc: "Premium lifetime structural implants. Fully restore your natural chewing and facial aesthetics.", img: "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?q=80&w=600" },
     { title: "Teeth Cleaning & Whitening", desc: "Instant stain removal and advanced laser whitening for a sparkling confident smile.", img: "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=600" },
-    { title: "Smile Designing", desc: "Custom clear aligners, digital mockups, and high-end aesthetic transformations.", img: "https://images.unsplash.com/photo-1513415277900-a62401e5054e?q=80&w=600" }
+    { title: "Smile Designing", desc: "Custom clear aligners, digital mockups, and high-end aesthetic transformations.",img: "https://images.unsplash.com/photo-1516549655169-df83a0774514?q=80&w=600"}
   ],
 
   testimonials: [
