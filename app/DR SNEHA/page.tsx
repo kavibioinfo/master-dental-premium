@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "DR SNEHA",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "9764007130",
   whatsappNumber: "9764007130",
   address: "SHOP NO 01, Vivekanand Chowk, near by HDFC ATM, Hatte Nagar, Latur, Maharashtra 413512",

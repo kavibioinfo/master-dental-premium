@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "Vishwa dental care ",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "7204828206",
   whatsappNumber: "7204828206",
   address: "Shahu chowk, Nanded Rd, Latur, Maharashtra 413512",

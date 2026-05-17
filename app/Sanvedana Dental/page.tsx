@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "Sanvedana Dental Clinic",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "8087060745",
   whatsappNumber: "8087060745",
   address: "MH SH 145, Hatte Nagar, Latur, Maharashtra 413512",

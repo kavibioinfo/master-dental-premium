@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "Venkatesh dental clinic and implant center",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "7385051925",
   whatsappNumber: "7385051925",
   address: "Laxmi Sadan, Latur - Babhalgaon Rd, Hatte Nagar, Latur, Maharashtra 413512",

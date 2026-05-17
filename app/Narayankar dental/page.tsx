@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "Dr Narayankar's Dental Care and implant center",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "9579911847",
   whatsappNumber: "9579911847",
   address: "Vivekanand Chowk, Nanded road, Hatte Nagar, Latur, Maharashtra 413512",

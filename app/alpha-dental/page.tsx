@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "Alpha Dental clinic",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "9309581700",
   whatsappNumber: "9309581700",
   address: "SHOP NO.02, PILLE SQUARE, Vivekanand Chowk, Pillai Square, VIVEKNAND CHOWK, Nanded Rd, Hatte Nagar, Latur, Maharashtra 413512",

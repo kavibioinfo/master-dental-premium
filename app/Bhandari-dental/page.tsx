@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "Bhandari Dental Clinic",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "9823525229",
   whatsappNumber: "9823525229",
   address: "Madhuban Hotel, Bus Stand, B/H, below Nandanvan Lodge, opp. ain, Chandra Nagar, Sawe Wadi, Latur, Maharashtra 413512",

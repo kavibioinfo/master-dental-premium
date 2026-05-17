@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "Gurumauli Dental Clinic & Facial Trauma Center",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "7042454744",
   whatsappNumber: "7042454744",
   address: "Below SONY showroom Shahu College Road, Bus Stand, Chandra Nagar, Latur, Maharashtra 413512",

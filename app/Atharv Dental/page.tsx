@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "Atharv Dental Clinic (Dr. Ashwini Narayankar MDS prostho)",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "9175769456",
   whatsappNumber: "9175769456",
   address: "Opp. to central Bus Stand, MG Rd, Latur, Maharashtra 413512",

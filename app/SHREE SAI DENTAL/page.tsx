@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "SHREE SAI DENTAL CLINIC",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "9766397080",
   whatsappNumber: "9766397080",
   address: "Ring Road, near Basweshwar Chowk, Hatte Nagar, Latur, Maharashtra 413512",

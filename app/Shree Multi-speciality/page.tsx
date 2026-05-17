@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "Shree Multi-speciality Dental clinic",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "9922319622",
   whatsappNumber: "9922319622",
   address: "First floor, Datal building, Infront of Dadge hospital, Shahu chowk, Latur, Maharashtra 413512",

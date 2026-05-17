@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "SMIT Multispeciality Dental Clinic",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with our expert specialists.",
   phone: "7020407785",
   whatsappNumber: "7020407785",
   address: "Opposite Bhattad Hospital, Near Main Bus Stand, Latur, Maharashtra 413512",
