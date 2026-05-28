@@ -87,7 +87,6 @@ export default function DrPhadkuleMasterDemo() {
         animation: 'slideDown .6s ease both'
       }}>
         <a href="#home" style={{ display: 'flex', alignItems: 'center', gap: '14px', textDecoration: 'none' }}>
-          {/* VISIBLE & OPTIMIZED BLUE DENTAL LOGO */}
           <div style={{ backgroundColor: '#1a5fff', borderRadius: '12px', padding: '6px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
             <img src="https://www.laturdentalclinic.com/assets/logo-CzrZz4v_.png" alt="Logo" style={{ height: '36px', filter: 'brightness(0) invert(1)' }} />
           </div>
@@ -198,8 +197,7 @@ export default function DrPhadkuleMasterDemo() {
             </p>
           </div>
 
-          {/* SCREENSHOT 1763 EXACT COPIED GRID SYSTEM */}
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(450px, 1fr))', gap: '40px' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))', gap: '40px' }}>
             
             {/* DOCTOR 1 CARD: DR. SIDDHARTH PHADKULE */}
             <div className="reveal-section" style={{ background: '#f5f9ff', border: '1px solid #d6e4f7', borderRadius: '32px', padding: '40px', display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', boxShadow: '0 10px 30px rgba(26,95,255,0.04)' }}>
@@ -307,7 +305,7 @@ export default function DrPhadkuleMasterDemo() {
               { text: "Got my smile makeover done here — veneers and whitening. The results are breathtaking. Everyone keeps asking if I've always had perfect teeth.", a: 'Sneha Patil', l: 'Nanded', i: 'S' }
             ].map((testi, i) => (
               <div key={i} className="reveal-section" style={{ background: '#fff', border: '1px solid #d6e4f7', borderRadius: '20px', padding: '28px', boxShadow: '0 2px 12px rgba(26,95,255,0.08)' }}>
-                <div style={{ color: '#f59e0b', fontSize: '.85rem', letterSpacing: '3px', marginbottom: '12px' }}>★★★★★</div>
+                <div style={{ color: '#f59e0b', fontSize: '.85rem', letterSpacing: '3px', marginBottom: '12px' }}>★★★★★</div>
                 <p style={{ color: '#2a3f6b', fontSize: '.88rem', lineHeight: 1.7, fontStyle: 'italic', marginBottom: '20px' }}>
                   "{testi.text}"
                 </p>
