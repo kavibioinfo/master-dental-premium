@@ -14,7 +14,7 @@ import {
 const CLINIC_CONFIG = {
   brandName: "Dr Phadkule's Latur dental clinic and orthodontic centre",
   tagline: "Trusted Dental Care in Latur",
-  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Bellale.",
+  subheading: "Advanced Dental Treatments with Modern Technology & Personal Care. Book your smile transformation today with Dr. Phadkule.",
   phone: "9404330627",
   whatsappNumber: "9404330627",
   address: "Lokhand Galli, near Aurade ayurvedik store, Ganj Golai, Latur, Maharashtra 413512",
